@@ -1,7 +1,7 @@
 # 未来のデスクトップ -iOS APP-
 ## 使い方
 1. Tensor Flow Liteのでもアプリをつくる
-> [TensorFlow Lite](https://www.tensorflow.org/lite/demo_ios)のサイトを参考にして、でもアプリをつくる
+> [TensorFlow Lite](https://www.tensorflow.org/lite/demo_ios)のサイトを参考にして、デモアプリをつくる
 ```
 $ git clone https://github.com/tensorflow/tensorflow
 $ xcode-select --install
