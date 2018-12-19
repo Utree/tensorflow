@@ -13,6 +13,7 @@ $ pod update
 $ open tflite_camera_example.xcworkspace
 ```
 2.  CameraExampleViewController.mmを編集
+> 551行目に追記
 > ただし、"https://NGROK_URL/"はよしなに変更する
 
 ```
